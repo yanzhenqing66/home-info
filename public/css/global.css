@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+body {
+	padding-top: 1.875rem;
+	padding-bottom: 3.4375rem;
+}
